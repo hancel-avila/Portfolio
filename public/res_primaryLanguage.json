@@ -1,118 +1,126 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Hancel Ávila. I love developing websites and SPA's with HTML, CSS, SASS and Javascript vanilla. Nowadays I’m also developing mobile apps 📱 with React Native, Formik, Yup, Firebase and other tools. I like to use my creativity in User Interfaces (UI) designing visual and interactive elements of digital products that people enjoy to use. 😀",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "PetRescue",
+      "startDate": "2021",
+      "description": "A challenging app where I polished my CSS skills using styled-components to achieve the best look. Application registers the users, dogs and shelters on Firebase. The users are able to login/signup with Google account, review each dog card and shelter info where is hosted, select their favorites that get stored on a screen refreshed by Redux and edit their profile data.",
+      "images": [
+        "images/portfolio/petRescue/p1.jpg",
+        "images/portfolio/petRescue/p2.gif"
+      ],
+      "url": "https://drive.google.com/file/d/1rZ1ol3uOZGv5-VURUDM92kVucaHbeuzL/view?usp=sharing",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React Native"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-google-plain",
+          "name": "Google"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Flight Reservation",
+      "startDate": "2021",
+      "description": "I learned many technologies developing this app and my code was reviewed by mentors. Users are able to login/signup with a Google account, I used styled-components, Yup to build schema, Formik to validate the formularies, i18next framework to specify text and Redux to refresh the ticket screen.",
+      "images": [
+        "images/portfolio/flight-reservation/p1.jpg",
+        "images/portfolio/flight-reservation/p2.gif"
+      ],
+      "url": "https://drive.google.com/file/d/1gRUvgGEFMSl1Mwh4bws4JpcJhKyRtK6S/view?usp=sharing",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-google-plain",
+          "name": "Google"
+        }
+      ]
+    },
+    {
+      "title": "Omnifood",
+      "startDate": "2020",
+      "description": "One of my first landing pages, great to put in practice pure CSS, animations and semantic HTML for SEO positioning. I applied the best practices on web design rules, implementing queries to make the website responsive and suitable for tablets and mobiles as well.",
+      "images": [
+        "images/portfolio/omnifood/p1.jpg",
+        "images/portfolio/omnifood/p2.gif"
+      ],
+      "url": "https://hancel-omnifood.herokuapp.com",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "BrightCoders",
+      "title": "Mobile Developer",
+      "years": "5.2021 - 10.2021",
+      "mainTech": ["React Native 0.64.2"],
+      "technologies": [
+        "React Native",
+        "JSX",
+        "JavaScript",
+        "Firebase",
+        "Formik",
+        "Redux",
+        "HTML5",
+        "CSS3",
+        "SASS",
+        "Bootstrap",
+        "Git",
+        "Yup",
+        "Github",
+        "Scrum",
+        "Agile"
+      ]
+    },
+    {
+      "company": "Devux",
+      "title": "Frontend Trainee",
+      "years": "03.2021 - 05.2020",
+      "mainTech": ["PHP 7.3"],
+      "technologies": [
+        "HTML3",
+        "CSS3",
+        "PHP",
+        "JavaScript",
+        "JQuery",
+        "Jira",
+        "Bootstrap"
+      ]
+    }
+  ]
+}
