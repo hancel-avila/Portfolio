@@ -61,7 +61,7 @@
     {
       "title": "Omnifood",
       "startDate": "2020",
-      "description": "One of my first landing pages, great to put in practice pure CSS, animations and semantic HTML for SEO positioning. I applied the best practices on web design rules, implementing queries to make the website responsive and suitable for tablets and mobiles as well.",
+      "description": "One of my first landing pages, great to put into practice pure CSS, animations and semantic HTML for SEO positioning. I applied the best practices on web design rules, implementing queries to make the website responsive and suitable for tablets and mobiles as well.",
       "images": [
         "images/portfolio/omnifood/p1.jpg",
         "images/portfolio/omnifood/p2.gif"
@@ -110,7 +110,7 @@
     {
       "company": "Devux",
       "title": "Frontend Trainee",
-      "years": "03.2021 - 05.2020",
+      "years": "03.2021 - 05.2021",
       "mainTech": ["PHP 7.3"],
       "technologies": [
         "HTML3",

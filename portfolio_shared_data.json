@@ -9,9 +9,14 @@
         "class": "fab fa-github"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/hancel.avila/",
-        "class": "fab fa-instagram"
+        "name": "twitter",
+        "url": "https://twitter.com/Hancel",
+        "class": "fab fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/hancel-avila/",
+        "class": "fab fa-linkedin"
       },
       {
         "name": "dribbble",
