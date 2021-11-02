@@ -19,6 +19,7 @@
         "images/portfolio/petRescue/p2.gif"
       ],
       "url": "https://drive.google.com/file/d/1rZ1ol3uOZGv5-VURUDM92kVucaHbeuzL/view?usp=sharing",
+      "repository": "https://github.com/hancel-avila/proyecto-proy-t01",
       "technologies": [
         {
           "class": "devicon-react-plain",
@@ -43,6 +44,7 @@
         "images/portfolio/flight-reservation/p2.gif"
       ],
       "url": "https://drive.google.com/file/d/1gRUvgGEFMSl1Mwh4bws4JpcJhKyRtK6S/view?usp=sharing",
+      "repository": "https://github.com/hancel-avila/kata-05-reservacion-de-vuelos-k05-t01",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -67,6 +69,7 @@
         "images/portfolio/omnifood/p2.gif"
       ],
       "url": "https://hancel-omnifood.herokuapp.com",
+      "repository": "https://github.com/hancel-avila/Omnifood",
       "technologies": [
         {
           "class": "devicon-html5-plain",
@@ -88,6 +91,7 @@
       "description": "Budget calculator created with Javascript vanilla. I made it as part of an Udemy course, it was really great to work with IIFE, many arrays/objects methods and DOM manipulation. Also to apply the Object Oriented Programming and functional paradigm.",
       "images": ["images/portfolio/budgety/p1.jpg"],
       "url": "https://frozen-basin-26226.herokuapp.com",
+      "repository": "https://github.com/hancel-avila/frozen-basin-26226",
       "technologies": [
         {
           "class": "devicon-html5-plain",
