@@ -12,6 +12,7 @@ class ProjectDetailsModal extends Component {
       var title = this.props.data.title;
       var description = this.props.data.description;
       var url = this.props.data.url;
+      var repository = this.props.data.repository;
       if (this.props.data.technologies) {
         var tech = technologies.map((icons, i) => {
           return (
@@ -90,6 +91,16 @@ class ProjectDetailsModal extends Component {
                     className="fas fa-external-link-alt"
                     style={{ marginLeft: "10px" }}
                   ></i>
+                </a>
+              ) : null}
+              {repository ? (
+                <a
+                  href={repository}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="link-href"
+                >
+                  <i class="fab fa-github" style={{ marginLeft: "10px" }}></i>
                 </a>
               ) : null}
             </h3>
