@@ -30,8 +30,8 @@
           "name": "Javascript"
         },
         {
-          "class": "devicon-google-plain",
-          "name": "Google"
+          "class": "devicon-firebase-plain",
+          "name": "Firebase"
         }
       ]
     },
@@ -109,6 +109,26 @@
     }
   ],
   "experience": [
+    {
+      "company": "michelada",
+      "title": "Frontend Development",
+      "years": "12.2021 - current",
+      "mainTech": ["Shopify & e-commerce integrations"],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "SCSS",
+        "Tailwind",
+        "SASS",
+        "Nosto",
+        "Klaviyo",
+        "Four Sixty",
+        "Git",
+        "Github",
+        "Scrum",
+        "Agile"
+      ]
+    },
     {
       "company": "BrightCoders bootcamp",
       "title": "Mobile Developer",
