@@ -106,6 +106,26 @@
   ],
   "experience": [
     {
+      "company": "michelada",
+      "title": "Frontend Development",
+      "years": "12.2021 - current",
+      "mainTech": ["Shopify & e-commerce integrations"],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "SCSS",
+        "Tailwind",
+        "SASS",
+        "Nosto",
+        "Klaviyo",
+        "Four Sixty",
+        "Git",
+        "Github",
+        "Scrum",
+        "Agile"
+      ]
+    },
+    {
       "company": "BrightCoders bootcamp",
       "title": "Mobile Developer",
       "years": "5.2021 - 10.2021",
