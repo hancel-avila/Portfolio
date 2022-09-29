@@ -1,0 +1,171 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Hancel Ávila. Experienced in web development and mobile apps 📱 for Android coded with React Native. Skilled in UI design and passionate about the frontend ecosystem. I like to use my creativity in User Interfaces (UI), designing visual and interactive elements for digital products that people enjoy to use. 😀",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "PetRescue",
+      "startDate": "2021",
+      "description": "A challenging app where I polished my CSS skills using styled-components to achieve the best look. Application registers the users, dogs and shelters on Firebase. The users are able to login/signup with Google account, review each dog card and shelter info where is hosted, select their favorites that get stored on a screen refreshed by Redux and edit their profile data.",
+      "images": [
+        "images/portfolio/petRescue/p1.jpg",
+        "images/portfolio/petRescue/p2.gif"
+      ],
+      "url": "https://drive.google.com/file/d/1rZ1ol3uOZGv5-VURUDM92kVucaHbeuzL/view?usp=sharing",
+      "repository": "https://github.com/hancel-avila/proyecto-proy-t01",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React Native"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-firebase-plain",
+          "name": "Firebase"
+        }
+      ]
+    },
+    {
+      "title": "Flight Reservation",
+      "startDate": "2021",
+      "description": "I learned many technologies developing this app and my code was reviewed by mentors. Users are able to login/signup with a Google account, I used styled-components, Yup to build schema, Formik to validate the formularies, i18next framework to specify text and Redux to refresh the ticket screen.",
+      "images": [
+        "images/portfolio/flight-reservation/p1.jpg",
+        "images/portfolio/flight-reservation/p2.gif"
+      ],
+      "url": "https://drive.google.com/file/d/1gRUvgGEFMSl1Mwh4bws4JpcJhKyRtK6S/view?usp=sharing",
+      "repository": "https://github.com/hancel-avila/kata-05-reservacion-de-vuelos-k05-t01",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-google-plain",
+          "name": "Google"
+        }
+      ]
+    },
+    {
+      "title": "Omnifood",
+      "startDate": "2020",
+      "description": "One of my first landing pages, great to put into practice pure CSS, animations and semantic HTML for SEO positioning. I applied the best practices on web design rules, implementing queries to make the website responsive and suitable for tablets and mobiles as well.",
+      "images": [
+        "images/portfolio/omnifood/p1.jpg",
+        "images/portfolio/omnifood/p2.gif"
+      ],
+      "url": "https://hancel-omnifood.herokuapp.com",
+      "repository": "https://github.com/hancel-avila/Omnifood",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        }
+      ]
+    },
+    {
+      "title": "Budgety",
+      "startDate": "2020",
+      "description": "Budget calculator created with Javascript vanilla. I made it as part of an Udemy course, it was really great to work with IIFE, many arrays/objects methods and DOM manipulation. Also to apply the Object Oriented Programming and functional paradigm.",
+      "images": ["images/portfolio/budgety/p1.jpg"],
+      "url": "https://frozen-basin-26226.herokuapp.com",
+      "repository": "https://github.com/hancel-avila/frozen-basin-26226",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "michelada",
+      "title": "Frontend Development",
+      "years": "12.2021 - current",
+      "mainTech": ["Shopify & e-commerce integrations"],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "SCSS",
+        "Tailwind",
+        "SASS",
+        "Nosto",
+        "Klaviyo",
+        "Four Sixty",
+        "Git",
+        "Github",
+        "Scrum",
+        "Agile"
+      ]
+    },
+    {
+      "company": "BrightCoders bootcamp",
+      "title": "Mobile Developer",
+      "years": "5.2021 - 10.2021",
+      "mainTech": ["React Native 0.64.2"],
+      "technologies": [
+        "React Native",
+        "JSX",
+        "JavaScript",
+        "Firebase",
+        "Formik",
+        "Redux",
+        "HTML5",
+        "CSS3",
+        "SASS",
+        "Bootstrap",
+        "Git",
+        "Yup",
+        "Github",
+        "Scrum",
+        "Agile"
+      ]
+    },
+    {
+      "company": "Devux",
+      "title": "Frontend Trainee",
+      "years": "03.2021 - 05.2021",
+      "mainTech": ["PHP 7.3"],
+      "technologies": [
+        "HTML3",
+        "CSS3",
+        "PHP",
+        "JavaScript",
+        "JQuery",
+        "Jira",
+        "Bootstrap"
+      ]
+    }
+  ]
+}

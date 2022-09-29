@@ -1,0 +1,78 @@
+{
+  "basic_info": {
+    "name": "Hancel Ávila",
+    "titles": ["Front-end Developer", "Mobile App Developer"],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/hancel-avila",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Hancel",
+        "class": "fab fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/hancel-avila/",
+        "class": "fab fa-linkedin"
+      },
+      {
+        "name": "dribbble",
+        "url": "https://dribbble.com/Hancel",
+        "class": "fab fa-dribbble"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-plain",
+        "level": "70"
+      },
+      {
+        "name": "Sass",
+        "class": "devicon-sass-original",
+        "level": "80"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "90"
+      },
+      {
+        "name": "Tailwind",
+        "class": "devicon-tailwindcss-plain",
+        "level": "90"
+      },
+      {
+        "name": "Git",
+        "class": "devicon-git-plain",
+        "level": "70"
+      },
+      {
+        "name": "Github",
+        "class": "devicon-github-plain",
+        "level": "80"
+      }
+    ]
+  }
+}
