@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "",
+    "description": "👋 I'm Hancel Ávila. Experienced in web development and mobile apps 📱 for Android coded with React Native. Skilled in UI design and passionate about the frontend ecosystem. I like to use my creativity in User Interfaces (UI), designing visual and interactive elements for digital products that people enjoy to use. 😀",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -129,7 +129,6 @@
         "SCSS",
         "Tailwind",
         "Liquid",
-        "Figma",
         "SASS",
         "Git",
         "Github",

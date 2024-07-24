@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hola",
-    "description": "",
+    "description": "👋 Soy Hancel Ávila.  Me encanta desarrollar sitios web y SPA's con HTML, CSS, SASS y Javascript vainilla. Hoy en día también estoy desarrollando aplicaciones móviles 📱 con React Native, Formik, Yup, Firebase y otras herramientas. Me gusta usar mi creatividad en interfaces de usuario (UI) diseñando elementos visuales e interactivos de productos digitales que la gente disfrute usar. 😀",
     "section_name": {
       "about": "Acerca de mí",
       "projects": "Proyectos",
@@ -125,7 +125,6 @@
         "SCSS",
         "Tailwind",
         "Liquid",
-        "Figma",
         "SASS",
         "Git",
         "Github",
