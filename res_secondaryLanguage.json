@@ -11,6 +11,26 @@
   },
   "projects": [
     {
+      "title": "E-Commerce",
+      "startDate": "2021 to date",
+      "description": "Algunas tiendas con las que he colaborado hasta la fecha: https://bebe.com, https://bloomist.com, https://brookstone.com, https://flipsandal.com, https://fredericks.com, https://hurley.com, https://junkfoodclothing.com, https://karenkane.com, https://modcloth.com, https://scotchandsoda.com",
+      "images": [
+        "images/portfolio/e-commerce/Bebe.png",
+        "images/portfolio/e-commerce/Bloomist.png",
+        "images/portfolio/e-commerce/Brookstone.png",
+        "images/portfolio/e-commerce/Flipsandal.png",
+        "images/portfolio/e-commerce/Fredericks.png",
+        "images/portfolio/e-commerce/Hurley.png",
+        "images/portfolio/e-commerce/Junkfood.png",
+        "images/portfolio/e-commerce/Karen Kane.png",
+        "images/portfolio/e-commerce/Modcloth.png",
+        "images/portfolio/e-commerce/Scotch & Soda.png"
+      ],
+      "url": "",
+      "repository": "",
+      "technologies": []
+    },
+    {
       "title": "PetRescue",
       "startDate": "2021",
       "description": "Una aplicación desafiante en la que pulí mis habilidades de CSS utilizando styled-components para lograr el mejor resultado. La aplicación registra a los usuarios, perros y refugios en Firebase. Los usuarios pueden iniciar sesión/registrarse con la cuenta de Google, revisar la tarjeta de cada perro y la información del refugio donde está alojado, seleccionar sus favoritos que se almacenan en una pantalla actualizada por Redux y editar sus datos de perfil.",
@@ -115,10 +135,8 @@
         "CSS",
         "SCSS",
         "Tailwind",
+        "Liquid",
         "SASS",
-        "Nosto",
-        "Klaviyo",
-        "Four Sixty",
         "Git",
         "Github",
         "Scrum",
