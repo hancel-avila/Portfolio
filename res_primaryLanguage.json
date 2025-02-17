@@ -11,15 +11,6 @@
   },
   "projects": [
     {
-      "title": "Bebe",
-      "startDate": "2022",
-      "description": "Bebe is a globally recognized fashion brand known for its trendy and sophisticated apparel. As a Shopify Specialist and Frontend Developer, I spearheaded the redesign of their online store, meticulously preserving the brand's original style while enhancing its digital presence. Without a Figma mockup, I collaborated closely with the client to align the design with their vision, ensuring a seamless user experience. This project, with its high revenue and international reach, stands as a testament to my ability to deliver impactful e-commerce solutions.",
-      "images": ["images/portfolio/bebe/bebe crop 1.jpg,images/portfolio/bebe/bebe crop 2.jpg"],
-      "url": "",
-      "repository": "",
-      "technologies": []
-    },
-    {
       "title": "E-Commerce",
       "startDate": "2021 to date",
       "description": "A few live stores I have collaborated with to date: https://bebe.com, https://bloomist.com, https://brookstone.com, https://flipsandal.com, https://fredericks.com, https://hurley.com, https://junkfoodclothing.com, https://karenkane.com, https://modcloth.com, https://scotchandsoda.com",
@@ -28,6 +19,18 @@
       "repository": "",
       "technologies": []
     },
+    {
+      "title": "Bebe",
+      "startDate": "2022",
+      "description": "Bebe is a globally recognized fashion brand known for its trendy and sophisticated apparel. As a Shopify Specialist and Frontend Developer, I spearheaded the redesign of their online store, meticulously preserving the brand's original style while enhancing its digital presence. Without a Figma mockup, I collaborated closely with the client to align the design with their vision, ensuring a seamless user experience. This project, with its high revenue and international reach, stands as a testament to my ability to deliver impactful e-commerce solutions.",
+      "images": [
+        "images/portfolio/bebe/bebe-crop-1.jpg","images/portfolio/bebe/bebe-crop-2.jpg"
+      ],
+      "url": "",
+      "repository": "",
+      "technologies": []
+    },
+
     {
       "title": "Pet Rescue",
       "startDate": "2021",
