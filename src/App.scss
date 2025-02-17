@@ -172,7 +172,7 @@ header h1 {
 
 .polaroid img {
   display: block;
-  max-width: 200px;
+  max-width: 300px;
 }
 
 .polaroid span {
@@ -234,7 +234,7 @@ header h1 {
   text-align: left !important;
   padding: 5px 8px 5px 8px !important;
   vertical-align: baseline;
-  background-color: #ae944f !important;
+  background-color: #004a8a !important;
   color: white;
   font-weight: lighter !important;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
@@ -323,7 +323,7 @@ header h1 {
 }
 
 .modal-description {
-  text-align: justify;
+  text-align: left;
   padding: 5px 5px 0 5px;
   margin-bottom: 20px;
   font-size: 12px;

@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hola",
-    "description": "👋 Soy Hancel Ávila.  Me encanta desarrollar sitios web y SPA's con HTML, CSS, SASS y Javascript vainilla. Hoy en día también estoy desarrollando aplicaciones móviles 📱 con React Native, Formik, Yup, Firebase y otras herramientas. Me gusta usar mi creatividad en interfaces de usuario (UI) diseñando elementos visuales e interactivos de productos digitales que la gente disfrute usar. 😀",
+    "description": "Soy un desarrollador web apasionado con profunda experiencia en Shopify y su ecosistema, incluyendo Shopify Plus e integraciones de terceros. He tenido la oportunidad de trabajar en proyectos importantes para marcas internacionales de renombre, lo que ha agudizado mis habilidades en la entrega de soluciones de comercio electrónico de primer nivel. Esta experiencia me ha dotado de los conocimientos necesarios para manejar proyectos de alto perfil y cumplir con los exigentes estándares de los clientes globales. Más de 30 tiendas de marcas notables se han beneficiado de mi experiencia, como Hurley, Kenneth Cole, Pam & Gela, Shock Doctor, Scotch & Soda, Modcloth, Katy Perry, Bebe y muchas otras.",
     "section_name": {
       "about": "Acerca de mí",
       "projects": "Proyectos",
@@ -10,6 +10,24 @@
     }
   },
   "projects": [
+    {
+      "title": "Bebe",
+      "startDate": "2022",
+      "description": "Bebe es una marca de moda reconocida a nivel mundial por su ropa elegante y a la moda. Como Shopify Specialist y Frontend Developer, lideré el rediseño de su tienda en línea, preservando meticulosamente el estilo original de la marca mientras mejoraba su presencia digital. Sin un mockup de Figma, colaboré estrechamente con el cliente para alinear el diseño con su visión, asegurando una experiencia de usuario fluida. Este proyecto, con sus altos ingresos y alcance internacional, es un testimonio de mi capacidad para ofrecer soluciones de comercio electrónico impactantes.",
+      "images": ["images/portfolio/bebe/bebe.jpg"],
+      "url": "",
+      "repository": "",
+      "technologies": []
+    },
+    {
+      "title": "E-Commerce",
+      "startDate": "2021 to date",
+      "description": "Algunas tiendas con las que he colaborado hasta la fecha: https://bebe.com, https://bloomist.com, https://brookstone.com, https://flipsandal.com, https://fredericks.com, https://hurley.com, https://junkfoodclothing.com, https://karenkane.com, https://modcloth.com, https://scotchandsoda.com",
+      "images": ["images/portfolio/e-commerce/Shopify.jpg"],
+      "url": "",
+      "repository": "",
+      "technologies": []
+    },
     {
       "title": "PetRescue",
       "startDate": "2021",
@@ -115,10 +133,9 @@
         "CSS",
         "SCSS",
         "Tailwind",
+        "Liquid",
         "SASS",
-        "Nosto",
-        "Klaviyo",
-        "Four Sixty",
+        "Figma",
         "Git",
         "Github",
         "Scrum",
