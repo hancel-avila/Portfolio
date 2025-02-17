@@ -37,7 +37,7 @@
       "technologies": [
         {
           "type": "flaticon",
-          "path": "icons/flaticon/shopify.png",
+          "path": "../public/icons/flaticon/shopify.png",
           "name": "Shopify"
         },
         {
