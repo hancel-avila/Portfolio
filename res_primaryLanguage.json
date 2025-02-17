@@ -32,9 +32,30 @@
         "images/portfolio/bebe/Bebe PLP-1.jpg",
         "images/portfolio/bebe/Bebe PDP-1.jpg"
       ],
-      "url": "",
+      "url": "https://www.bebe.com",
       "repository": "",
-      "technologies": []
+      "technologies": [
+        {
+          "class": "devicon-shopify-plain",
+          "name": "Shopify"
+        },
+        {
+          "class": "devicon-tailwindcss-original",
+          "name": "Tailwind"
+        },
+        {
+          "class": "devicon-liquid-plain",
+          "name": "Liquid"
+        },
+        {
+          "class": "devicon-git-plain",
+          "name": "Git"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
     },
 
     {

@@ -25,7 +25,28 @@
       ],
       "url": "",
       "repository": "",
-      "technologies": []
+      "technologies": [
+        {
+          "class": "devicon-shopify-plain",
+          "name": "Shopify"
+        },
+        {
+          "class": "devicon-tailwindcss-original",
+          "name": "Tailwind"
+        },
+        {
+          "class": "devicon-liquid-plain",
+          "name": "Liquid"
+        },
+        {
+          "class": "devicon-git-plain",
+          "name": "Git"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
     },
     {
       "title": "E-Commerce",
