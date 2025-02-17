@@ -14,7 +14,10 @@
       "title": "Bebe",
       "startDate": "2022",
       "description": "Bebe es una marca de moda reconocida a nivel mundial por su ropa elegante y a la moda. Como Shopify Specialist y Frontend Developer, lideré el rediseño de su tienda en línea, preservando meticulosamente el estilo original de la marca mientras mejoraba su presencia digital. Sin un mockup de Figma, colaboré estrechamente con el cliente para alinear el diseño con su visión, asegurando una experiencia de usuario fluida. Este proyecto, con sus altos ingresos y alcance internacional, es un testimonio de mi capacidad para ofrecer soluciones de comercio electrónico impactantes.",
-      "images": ["images/portfolio/bebe/bebe crop 1.jpg,images/portfolio/bebe/bebe crop 2.jpg"],
+      "images": [
+        "images/portfolio/bebe/bebe-crop-1.jpg",
+        "images/portfolio/bebe/bebe-crop-2.jpg"
+      ],
       "url": "",
       "repository": "",
       "technologies": []
