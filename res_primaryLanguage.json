@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "I'm a passionate web developer with deep expertise in Shopify and its ecosystem, including Shopify Plus and third-party integrations. I've had the opportunity to work on significant projects for renowned international brands, which has sharpened my skills in delivering top-tier e-commerce solutions. This experience has equipped me with the expertise needed to handle high-profile projects and meet the demanding standards of global clients. Over 30 stores for notable brands have benefitted from my expertise, including Hurley, Kenneth Cole, Pam & Gela, Shock Doctor, Scotch & Soda, Modcloth, Katy Perry, Bebe and many others.",
+    "description": "I'm a passionate web developer with deep expertise in Shopify and its ecosystem, including Shopify Plus and third-party integrations. I've had the opportunity to work on significant projects for renowned international brands, which has sharpened my skills in delivering top-tier e-commerce solutions. This experience has equipped me with the expertise needed to handle high-profile projects and meet the demanding standards of global clients. Over 30 stores for notable brands have benefitted from my expertise, including Bebe, Katy Perry, Hurley, Kenneth Cole, Pam & Gela, Shock Doctor, Scotch & Soda, Modcloth and many others.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -10,6 +10,15 @@
     }
   },
   "projects": [
+    {
+      "title": "Bebe",
+      "startDate": "2022",
+      "description": "Bebe is a globally recognized fashion brand known for its trendy and sophisticated apparel. As a Shopify Specialist and Frontend Developer, I spearheaded the redesign of their online store, meticulously preserving the brand's original style while enhancing its digital presence. Without a Figma mockup, I collaborated closely with the client to align the design with their vision, ensuring a seamless user experience. This project, with its high revenue and international reach, stands as a testament to my ability to deliver impactful e-commerce solutions.",
+      "images": ["images/portfolio/bebe/bebe.jpg"],
+      "url": "",
+      "repository": "",
+      "technologies": []
+    },
     {
       "title": "E-Commerce",
       "startDate": "2021 to date",
