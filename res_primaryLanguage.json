@@ -36,7 +36,8 @@
       "repository": "",
       "technologies": [
         {
-          "class": "devicon-shopify-plain",
+          "type": "flaticon",
+          "path": "icons/flaticon/shopify.png",
           "name": "Shopify"
         },
         {
