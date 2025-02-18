@@ -27,11 +27,6 @@
       "repository": "",
       "technologies": [
         {
-          "type": "flaticon",
-          "path": "../public/icons/flaticon/shopify.png",
-          "name": "Shopify"
-        },
-        {
           "class": "devicon-tailwindcss-original",
           "name": "Tailwind"
         },
