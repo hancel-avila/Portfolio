@@ -41,7 +41,8 @@
           "name": "Shopify"
         },
         {
-          "class": "devicon-tailwindcss-original",
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/tailwind.png",
           "name": "Tailwind"
         },
         {
