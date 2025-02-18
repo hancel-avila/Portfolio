@@ -62,7 +62,46 @@
         }
       ]
     },
-
+    {
+      "title": "Karen Kane",
+      "startDate": "2021",
+      "description": "Karen Kane is a beloved fashion brand known for its timeless, feminine designs and commitment to quality. Specializing in women's apparel, the brand combines comfort with elegance, offering versatile pieces for every occasion. Working on their Shopify store was a rewarding experience, allowing me to contribute to the digital presence of a brand that celebrates individuality and style.",
+      "images": [
+        "./images/portfolio/karen kane/Karen Kane HP-1.jpg",
+        "./images/portfolio/karen kane/Karen Kane HP-2.jpg",
+        "./images/portfolio/karen kane/Karen Kane HP-3.jpg",
+        "./images/portfolio/karen kane/Karen Kane HP-4.jpg"
+      ],
+      "url": "https://www.bebe.com",
+      "repository": "",
+      "technologies": [
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/shopify.png",
+          "name": "Shopify"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/liquid.png",
+          "name": "Liquid"
+        },
+           {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/js.png",
+          "name": "Javascript"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/tailwind.png",
+          "name": "Tailwind"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/git.png",
+          "name": "Git"
+        }
+      ]
+    },
     {
       "title": "Pet Rescue",
       "startDate": "2021",

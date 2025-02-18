@@ -11,6 +11,15 @@
   },
   "projects": [
     {
+      "title": "E-Commerce",
+      "startDate": "2021 to date",
+      "description": "Algunas tiendas con las que he colaborado hasta la fecha: https://bebe.com, https://bloomist.com, https://brookstone.com, https://flipsandal.com, https://fredericks.com, https://hurley.com, https://junkfoodclothing.com, https://karenkane.com, https://modcloth.com, https://scotchandsoda.com",
+      "images": ["images/portfolio/e-commerce/Shopify.jpg"],
+      "url": "",
+      "repository": "",
+      "technologies": []
+    },
+    {
       "title": "Bebe",
       "startDate": "2022",
       "description": "Bebe es una marca de moda reconocida a nivel mundial por su ropa elegante y a la moda. Como Shopify Specialist y Frontend Developer, lideré el rediseño de su tienda en línea, preservando meticulosamente el estilo original de la marca mientras mejoraba su presencia digital. Colaboré estrechamente con el cliente para alinear el diseño con su visión, asegurando una experiencia de usuario fluida. Este proyecto, con sus altos ingresos y alcance internacional, es un testimonio de mi capacidad para ofrecer soluciones de comercio electrónico impactantes.",
@@ -54,13 +63,44 @@
       ]
     },
     {
-      "title": "E-Commerce",
-      "startDate": "2021 to date",
-      "description": "Algunas tiendas con las que he colaborado hasta la fecha: https://bebe.com, https://bloomist.com, https://brookstone.com, https://flipsandal.com, https://fredericks.com, https://hurley.com, https://junkfoodclothing.com, https://karenkane.com, https://modcloth.com, https://scotchandsoda.com",
-      "images": ["images/portfolio/e-commerce/Shopify.jpg"],
+      "title": "Karen Kane",
+      "startDate": "2021",
+      "description": "Karen Kane es una marca de moda apreciada por sus diseños femeninos y atemporales, así como por su compromiso con la calidad. Especializada en ropa para mujer, la marca combina comodidad y elegancia, ofreciendo piezas versátiles para cada ocasión. Trabajar en su tienda Shopify fue una experiencia gratificante, permitiéndome contribuir a la presencia digital de una marca que celebra la individualidad y el estilo.",
+      "images": [
+        "./images/portfolio/karen kane/Karen Kane HP-1.jpg",
+        "./images/portfolio/karen kane/Karen Kane HP-2.jpg",
+        "./images/portfolio/karen kane/Karen Kane HP-3.jpg",
+        "./images/portfolio/karen kane/Karen Kane HP-4.jpg"
+      ],
       "url": "",
       "repository": "",
-      "technologies": []
+      "technologies": [
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/shopify.png",
+          "name": "Shopify"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/liquid.png",
+          "name": "Liquid"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/js.png",
+          "name": "Javascript"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/tailwind.png",
+          "name": "Tailwind"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/git.png",
+          "name": "Git"
+        }
+      ]
     },
     {
       "title": "PetRescue",
