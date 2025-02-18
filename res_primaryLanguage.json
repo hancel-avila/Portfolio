@@ -45,7 +45,7 @@
           "path": "assets/icons/flaticon/liquid.png",
           "name": "Liquid"
         },
-           {
+        {
           "type": "flaticon",
           "path": "assets/icons/flaticon/js.png",
           "name": "Javascript"
@@ -70,7 +70,9 @@
         "./images/portfolio/karen kane/Karen Kane HP-1.jpg",
         "./images/portfolio/karen kane/Karen Kane HP-2.jpg",
         "./images/portfolio/karen kane/Karen Kane HP-3.jpg",
-        "./images/portfolio/karen kane/Karen Kane HP-4.jpg"
+        "./images/portfolio/karen kane/Karen Kane HP-4.jpg",
+        "./images/portfolio/karen kane/Karen Kane PLP.jpg",
+        "./images/portfolio/karen kane/Karen Kane PDP.jpg"
       ],
       "url": "https://www.bebe.com",
       "repository": "",
@@ -85,7 +87,7 @@
           "path": "assets/icons/flaticon/liquid.png",
           "name": "Liquid"
         },
-           {
+        {
           "type": "flaticon",
           "path": "assets/icons/flaticon/js.png",
           "name": "Javascript"
