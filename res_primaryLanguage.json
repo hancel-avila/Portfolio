@@ -42,21 +42,23 @@
         },
         {
           "type": "flaticon",
+          "path": "assets/icons/flaticon/liquid.png",
+          "name": "Liquid"
+        },
+           {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/js.png",
+          "name": "Javascript"
+        },
+        {
+          "type": "flaticon",
           "path": "assets/icons/flaticon/tailwind.png",
           "name": "Tailwind"
         },
         {
-          "class": "devicon-liquid-plain",
-          "name": "Liquid"
-        },
-        {
-          "class": "devicon-git-plain",
-          "name": "Git"
-        },
-        {
           "type": "flaticon",
-          "path": "assets/icons/flaticon/js.png",
-          "name": "Javascript"
+          "path": "assets/icons/flaticon/git.png",
+          "name": "Git"
         }
       ]
     },
