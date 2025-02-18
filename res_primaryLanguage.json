@@ -38,7 +38,7 @@
         {
           "type": "flaticon",
           "path": "assets/icons/flaticon/shopify.png",
-          "name": "Shopify (Flaticon)"
+          "name": "Shopify"
         },
         {
           "class": "devicon-tailwindcss-original",
@@ -53,8 +53,9 @@
           "name": "Git"
         },
         {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/js.png",
+          "name": "Javascript"
         }
       ]
     },
