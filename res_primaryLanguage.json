@@ -24,40 +24,40 @@
       "startDate": "2022",
       "description": "Bebe is a globally recognized fashion brand known for its trendy and sophisticated apparel. As a Shopify Specialist and Frontend Developer, I spearheaded the redesign of their online store, meticulously preserving the brand's original style while enhancing its digital presence. I collaborated closely with the client to align the design with their vision, ensuring a seamless user experience. This project, with its high revenue and international reach, stands as a testament to my ability to deliver impactful e-commerce solutions.",
       "images": [
-        "/images/portfolio/bebe/bebe-crop-1.jpg",
-        "/images/portfolio/bebe/bebe-crop-2.jpg",
-        "/images/portfolio/bebe/bebe-crop-3.jpg",
-        "/images/portfolio/bebe/bebe-crop-4.jpg",
-        "/images/portfolio/bebe/bebe-crop-5.jpg",
-        "/images/portfolio/bebe/Bebe PLP-1.jpg",
-        "/images/portfolio/bebe/Bebe PDP-1.jpg"
+        "images/portfolio/bebe/bebe-crop-1.jpg",
+        "images/portfolio/bebe/bebe-crop-2.jpg",
+        "images/portfolio/bebe/bebe-crop-3.jpg",
+        "images/portfolio/bebe/bebe-crop-4.jpg",
+        "images/portfolio/bebe/bebe-crop-5.jpg",
+        "images/portfolio/bebe/Bebe PLP-1.jpg",
+        "images/portfolio/bebe/Bebe PDP-1.jpg"
       ],
       "url": "https://www.bebe.com",
       "repository": "",
       "technologies": [
         {
           "type": "flaticon",
-          "path": "/assets/icons/flaticon/shopify.png",
+          "path": "assets/icons/flaticon/shopify.png",
           "name": "Shopify"
         },
         {
           "type": "flaticon",
-          "path": "/assets/icons/flaticon/liquid.png",
+          "path": "assets/icons/flaticon/liquid.png",
           "name": "Liquid"
         },
            {
           "type": "flaticon",
-          "path": "/assets/icons/flaticon/js.png",
+          "path": "assets/icons/flaticon/js.png",
           "name": "Javascript"
         },
         {
           "type": "flaticon",
-          "path": "/assets/icons/flaticon/tailwind.png",
+          "path": "assets/icons/flaticon/tailwind.png",
           "name": "Tailwind"
         },
         {
           "type": "flaticon",
-          "path": "/assets/icons/flaticon/git.png",
+          "path": "assets/icons/flaticon/git.png",
           "name": "Git"
         }
       ]
