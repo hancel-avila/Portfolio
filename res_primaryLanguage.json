@@ -20,6 +20,52 @@
       "technologies": []
     },
     {
+      "title": "Flip Sandal",
+      "startDate": "2024",
+      "description": "Flip Sandal is a vibrant brand dedicated to crafting stylish, comfortable, and eco-friendly sandals perfect for everyday wear. Known for their bold designs and sustainable practices, Flip Sandal appeals to fashion-conscious consumers who value both aesthetics and environmental responsibility. Working on their Shopify store was an exciting opportunity to showcase their unique products and align their digital presence with their fun, eco-conscious ethos.",
+      "images": [
+        "./images/portfolio/flip-sandal/HP crop 1.png",
+        "./images/portfolio/flip-sandal/HP crop 2.png",
+        "./images/portfolio/flip-sandal/HP crop 3.png",
+        "./images/portfolio/flip-sandal/HP crop 4.png",
+        "./images/portfolio/flip-sandal/HP crop 5.png",
+        "./images/portfolio/flip-sandal/HP crop 6.png",
+        "./images/portfolio/flip-sandal/HP crop 7.png",
+        "./images/portfolio/flip-sandal/PLP crop 1.png",
+        "./images/portfolio/flip-sandal/PDP crop 1.png",
+        "./images/portfolio/flip-sandal/PDP crop 2.png"
+      ],
+      "url": "https://www.bebe.com",
+      "repository": "",
+      "technologies": [
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/shopify.png",
+          "name": "Shopify"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/liquid.png",
+          "name": "Liquid"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/js.png",
+          "name": "Javascript"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/tailwind.png",
+          "name": "Tailwind"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/git.png",
+          "name": "Git"
+        }
+      ]
+    },
+    {
       "title": "Pooof",
       "startDate": "2024",
       "description": "Pooof is an innovative brand specializing in teeth whitening strips, offering a simple and effective solution for achieving a brighter smile. Their focus on convenience and results has made them a popular choice in oral care. Collaborating on their Shopify store allowed me to enhance their online presence, ensuring a seamless shopping experience for customers seeking a quick and reliable whitening solution.",
