@@ -20,6 +20,51 @@
       "technologies": []
     },
     {
+      "title": "Pooof",
+      "startDate": "2024",
+      "description": "Pooof es una marca innovadora especializada en tiras blanqueadoras para dientes, ofreciendo una solución sencilla y efectiva para lograr una sonrisa más brillante. Su enfoque en la conveniencia y los resultados los ha convertido en una opción popular en el cuidado bucal. Colaborar en su tienda Shopify me permitió mejorar su presencia en línea, asegurando una experiencia de compra fluida para los clientes que buscan una solución rápida y confiable para blanquear sus dientes.",
+      "images": [
+        "./images/portfolio/pooof/HP crop 1.png",
+        "./images/portfolio/pooof/HP crop 2.png",
+        "./images/portfolio/pooof/HP crop 3.png",
+        "./images/portfolio/pooof/HP crop 4.png",
+        "./images/portfolio/pooof/HP crop 5.png",
+        "./images/portfolio/pooof/HP crop 6.png",
+        "./images/portfolio/pooof/HP crop 7.png",
+        "./images/portfolio/pooof/HP crop 8.png",
+        "./images/portfolio/pooof/HP crop 9.png"
+      ],
+      "url": "",
+      "repository": "",
+      "technologies": [
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/shopify.png",
+          "name": "Shopify"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/liquid.png",
+          "name": "Liquid"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/js.png",
+          "name": "Javascript"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/tailwind.png",
+          "name": "Tailwind"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/git.png",
+          "name": "Git"
+        }
+      ]
+    },
+    {
       "title": "Bebe",
       "startDate": "2022",
       "description": "Bebe es una marca de moda reconocida a nivel mundial por su ropa elegante y a la moda. Como Shopify Specialist y Frontend Developer, lideré el rediseño de su tienda en línea, preservando meticulosamente el estilo original de la marca mientras mejoraba su presencia digital. Colaboré estrechamente con el cliente para alinear el diseño con su visión, asegurando una experiencia de usuario fluida. Este proyecto, con sus altos ingresos y alcance internacional, es un testimonio de mi capacidad para ofrecer soluciones de comercio electrónico impactantes.",
@@ -73,51 +118,6 @@
         "./images/portfolio/karen kane/Karen Kane HP-4.jpg",
         "./images/portfolio/karen kane/Karen Kane PLP.jpg",
         "./images/portfolio/karen kane/Karen Kane PDP.jpg"
-      ],
-      "url": "",
-      "repository": "",
-      "technologies": [
-        {
-          "type": "flaticon",
-          "path": "assets/icons/flaticon/shopify.png",
-          "name": "Shopify"
-        },
-        {
-          "type": "flaticon",
-          "path": "assets/icons/flaticon/liquid.png",
-          "name": "Liquid"
-        },
-        {
-          "type": "flaticon",
-          "path": "assets/icons/flaticon/js.png",
-          "name": "Javascript"
-        },
-        {
-          "type": "flaticon",
-          "path": "assets/icons/flaticon/tailwind.png",
-          "name": "Tailwind"
-        },
-        {
-          "type": "flaticon",
-          "path": "assets/icons/flaticon/git.png",
-          "name": "Git"
-        }
-      ]
-    },
-    {
-      "title": "Pooof",
-      "startDate": "2023",
-      "description": "Pooof es una marca innovadora especializada en tiras blanqueadoras para dientes, ofreciendo una solución sencilla y efectiva para lograr una sonrisa más brillante. Su enfoque en la conveniencia y los resultados los ha convertido en una opción popular en el cuidado bucal. Colaborar en su tienda Shopify me permitió mejorar su presencia en línea, asegurando una experiencia de compra fluida para los clientes que buscan una solución rápida y confiable para blanquear sus dientes.",
-      "images": [
-        "./images/portfolio/pooof/HP crop 1.png",
-        "./images/portfolio/pooof/HP crop 2.png",
-        "./images/portfolio/pooof/HP crop 3.png",
-        "./images/portfolio/pooof/HP crop 4.png",
-        "./images/portfolio/pooof/HP crop 5.png",
-        "./images/portfolio/pooof/HP crop 6.png",
-        "./images/portfolio/pooof/HP crop 7.png",
-        "./images/portfolio/pooof/HP crop 8.png",
-        "./images/portfolio/pooof/HP crop 9.png"
       ],
       "url": "",
       "repository": "",
