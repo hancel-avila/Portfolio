@@ -20,6 +20,49 @@
       "technologies": []
     },
     {
+      "title": "Goodlife",
+      "startDate": "2024",
+      "description": "Goodlife is a premium menswear brand offering timeless, high-quality essentials. I worked on their Shopify store, refining the user interface and enhancing performance to ensure a seamless shopping experience. My role required precise execution to align with the brand’s minimalist yet sophisticated identity. This project was an exciting challenge, allowing me to contribute to a brand that values craftsmanship and modern style.",
+      "images": [
+        "./images/portfolio/goodlife/HP crop 1.png",
+        "./images/portfolio/goodlife/HP crop 2.png",
+        "./images/portfolio/goodlife/HP crop 3.png",
+        "./images/portfolio/goodlife/HP crop 4.png",
+        "./images/portfolio/goodlife/HP crop 5.png",
+        "./images/portfolio/goodlife/PLP crop 1.png",
+        "./images/portfolio/goodlife/PDP crop 1.png"
+      ],
+      "url": "https://www.bebe.com",
+      "repository": "",
+      "technologies": [
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/shopify.png",
+          "name": "Shopify"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/liquid.png",
+          "name": "Liquid"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/js.png",
+          "name": "Javascript"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/tailwind.png",
+          "name": "Tailwind"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/git.png",
+          "name": "Git"
+        }
+      ]
+    },
+    {
       "title": "Flip Sandal",
       "startDate": "2024",
       "description": "Flip Sandal is a vibrant brand dedicated to crafting stylish, comfortable, and eco-friendly sandals perfect for everyday wear. Known for their bold designs and sustainable practices, Flip Sandal appeals to fashion-conscious consumers who value both aesthetics and environmental responsibility. Working on their Shopify store was an exciting opportunity to showcase their unique products and align their digital presence with their fun, eco-conscious ethos.",

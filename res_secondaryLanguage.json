@@ -20,6 +20,49 @@
       "technologies": []
     },
     {
+      "title": "Goodlife",
+      "startDate": "2024",
+      "description": "Goodlife es una marca de moda masculina premium que ofrece prendas esenciales de alta calidad y diseño atemporal. Trabajé en su tienda Shopify, optimizando la interfaz de usuario y mejorando el rendimiento para una experiencia de compra fluida. Mi labor exigió una ejecución precisa para reflejar la identidad minimalista y sofisticada de la marca. Este proyecto fue un reto emocionante, permitiéndome aportar a una marca que valora la calidad y el estilo moderno.",
+      "images": [
+        "./images/portfolio/goodlife/HP crop 1.png",
+        "./images/portfolio/goodlife/HP crop 2.png",
+        "./images/portfolio/goodlife/HP crop 3.png",
+        "./images/portfolio/goodlife/HP crop 4.png",
+        "./images/portfolio/goodlife/HP crop 5.png",
+        "./images/portfolio/goodlife/PLP crop 1.png",
+        "./images/portfolio/goodlife/PDP crop 1.png"
+      ],
+      "url": "",
+      "repository": "",
+      "technologies": [
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/shopify.png",
+          "name": "Shopify"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/liquid.png",
+          "name": "Liquid"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/js.png",
+          "name": "Javascript"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/tailwind.png",
+          "name": "Tailwind"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/git.png",
+          "name": "Git"
+        }
+      ]
+    },
+    {
       "title": "Flip Sandal",
       "startDate": "2024",
       "description": "Flip Sandal es una marca dinámica dedicada a crear sandalias modernas, cómodas y ecológicas, ideales para el uso diario. Conocidos por sus diseños llamativos y prácticas sostenibles, Flip Sandal atrae a consumidores conscientes de la moda que valoran tanto la estética como la responsabilidad ambiental. Trabajar en su tienda Shopify fue una oportunidad emocionante para destacar sus productos únicos y alinear su presencia digital con su divertida y eco-consciente filosofía.",
