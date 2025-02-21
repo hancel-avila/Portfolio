@@ -105,6 +105,50 @@
       ]
     },
     {
+      "title": "Pooof",
+      "startDate": "2022",
+      "description": "Pooof is an innovative brand specializing in teeth whitening strips, offering a simple and effective solution for achieving a brighter smile. Their focus on convenience and results has made them a popular choice in oral care. Collaborating on their Shopify store allowed me to enhance their online presence, ensuring a seamless shopping experience for customers seeking a quick and reliable whitening solution.",
+      "images": [
+        "./images/portfolio/pooof/HP crop 1.png",
+        "./images/portfolio/pooof/HP crop 2.png",
+        "./images/portfolio/pooof/HP crop 3.png",
+        "./images/portfolio/pooof/HP crop 4.png",
+        "./images/portfolio/pooof/HP crop 5.png",
+        "./images/portfolio/pooof/HP crop 6.png",
+        "./images/portfolio/pooof/HP crop 7.png",
+        "./images/portfolio/pooof/HP crop 8.png"
+      ],
+      "url": "https://www.bebe.com",
+      "repository": "",
+      "technologies": [
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/shopify.png",
+          "name": "Shopify"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/liquid.png",
+          "name": "Liquid"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/js.png",
+          "name": "Javascript"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/tailwind.png",
+          "name": "Tailwind"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/git.png",
+          "name": "Git"
+        }
+      ]
+    },
+    {
       "title": "Pet Rescue",
       "startDate": "2021",
       "description": "A challenging app where I polished my CSS skills using styled-components to achieve the best look. Application registers the users, dogs and shelters on Firebase. The users are able to login/signup with Google account, review each dog card and shelter info where is hosted, select their favorites that get stored on a screen refreshed by Redux and edit their profile data.",

@@ -105,6 +105,50 @@
       ]
     },
     {
+      "title": "Pooof",
+      "startDate": "2022",
+      "description": "Pooof es una marca innovadora especializada en tiras blanqueadoras para dientes, ofreciendo una solución sencilla y efectiva para lograr una sonrisa más brillante. Su enfoque en la conveniencia y los resultados los ha convertido en una opción popular en el cuidado bucal. Colaborar en su tienda Shopify me permitió mejorar su presencia en línea, asegurando una experiencia de compra fluida para los clientes que buscan una solución rápida y confiable para blanquear sus dientes.",
+      "images": [
+        "./images/portfolio/pooof/HP crop 1.png",
+        "./images/portfolio/pooof/HP crop 2.png",
+        "./images/portfolio/pooof/HP crop 3.png",
+        "./images/portfolio/pooof/HP crop 4.png",
+        "./images/portfolio/pooof/HP crop 5.png",
+        "./images/portfolio/pooof/HP crop 6.png",
+        "./images/portfolio/pooof/HP crop 7.png",
+        "./images/portfolio/pooof/HP crop 8.png"
+      ],
+      "url": "",
+      "repository": "",
+      "technologies": [
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/shopify.png",
+          "name": "Shopify"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/liquid.png",
+          "name": "Liquid"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/js.png",
+          "name": "Javascript"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/tailwind.png",
+          "name": "Tailwind"
+        },
+        {
+          "type": "flaticon",
+          "path": "assets/icons/flaticon/git.png",
+          "name": "Git"
+        }
+      ]
+    },
+    {
       "title": "PetRescue",
       "startDate": "2021",
       "description": "Una aplicación desafiante en la que pulí mis habilidades de CSS utilizando styled-components para lograr el mejor resultado. La aplicación registra a los usuarios, perros y refugios en Firebase. Los usuarios pueden iniciar sesión/registrarse con la cuenta de Google, revisar la tarjeta de cada perro y la información del refugio donde está alojado, seleccionar sus favoritos que se almacenan en una pantalla actualizada por Redux y editar sus datos de perfil.",
